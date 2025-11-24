@@ -1,0 +1,7 @@
+{
+  "name": "Polyglot AI Partner",
+  "description": "A real-time voice conversational language learning partner powered by Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
